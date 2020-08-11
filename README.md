@@ -1,5 +1,5 @@
 # Alien-Invasion
-外星人入侵
+外星人入侵  
 该游戏参照《Python编程：从入门到实践》一书，有小部分改动
 ## PLAY
 1. 可使用`python Alien_Invasion.py` 运行游戏
